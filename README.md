@@ -33,12 +33,12 @@ Software engineer &nbsp;·&nbsp; Own my agency &nbsp;·&nbsp; Own a jazz club
 
 <a href="https://therawebdesign.com"><img src="assets/btn-web.svg" width="86" height="86" alt="Website" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="assets/btn-linkedin.svg" width="86" height="86" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jacob-bhatt/"><img src="assets/btn-linkedin.svg" width="86" height="86" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:jacobmbhatt20@gmail.com"><img src="assets/btn-email.svg" width="86" height="86" alt="Email" /></a>
 
 <br/>
 
-<sub>Tampa Bay, Florida &nbsp;·&nbsp; 2026</sub>
+<sub>Tampa Bay, Florida &nbsp;·&nbsp;</sub>
 
 </div>
