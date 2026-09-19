@@ -8,13 +8,13 @@
 
 Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028
 
-Piano &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Tennis &nbsp;·&nbsp; Jesus first
+Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·&nbsp; Tennis
 
 <br/>
 
 ### Dreams
 
-Software engineer &nbsp;·&nbsp; Dream: Own a jazz club
+Software engineer &nbsp;·&nbsp; Own a jazz club &nbsp;·&nbsp; Scale my agency (TheraWeb Design)
 
 <br/>
 
