@@ -14,7 +14,7 @@ Piano &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Tennis &nbsp;·&nbsp
 
 ### Dreams
 
-Software engineer &nbsp;·&nbsp;Dream: Own a jazz club
+Software engineer &nbsp;·&nbsp; Dream: Own a jazz club
 
 <br/>
 
