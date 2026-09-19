@@ -29,7 +29,7 @@ jobs:
       - name: Render the calendar
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/calendar.py --user "${{ github.repository_owner }}"
+        run: python scripts/render_calendar.py --user "${{ github.repository_owner }}"
 
       - name: Commit if it changed
         run: |
