@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="54" viewBox="0 0 270 54" role="img">
-<style>text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
-</style>
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect width="270" height="54" rx="6" fill="url(#g)"/><text x="135.0" y="32.0" text-anchor="middle" font-size="13" font-weight="800" letter-spacing="2.5" fill="#06121a">EMAIL ME</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" fill="none" role="img">
+<style>path,rect,circle{vector-effect:non-scaling-stroke}.sw{animation:sw 5s cubic-bezier(.45,0,.2,1) infinite}@keyframes sw{0%{transform:translateX(0)}32%,100%{transform:translateX(176px)}}</style>
+<defs><linearGradient id="glass" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0b0b0b"/><stop offset="1" stop-color="#242424"/></linearGradient><linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<clipPath id="btn-email"><circle cx="44.0" cy="44.0" r="41.0"/></clipPath><circle cx="44.0" cy="44.0" r="41.0" fill="url(#glass)" stroke="#fff" stroke-opacity=".13" stroke-width="1.5"/><g clip-path="url(#btn-email)"><rect x="-88" y="0" width="88" height="88" fill="url(#sheen)" class="sw" style="animation-delay:1.4s"/></g><circle cx="44.0" cy="44.0" r="41.0" fill="none" stroke="#BBF047" stroke-opacity=".3" stroke-width="1.5"/><g color="#BBF047"><g transform="translate(29.00,29.00) scale(1.25000)"><g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.6" y="4.8" width="20.8" height="14.4" rx="2"/><path d="m2.2 6.2 9.8 6.6 9.8-6.6"/></g></g></g>
 </svg>

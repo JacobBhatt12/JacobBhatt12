@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="270" height="54" viewBox="0 0 270 54" role="img">
-<style>text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
-</style>
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
-<rect x=".5" y=".5" width="269" height="53" rx="6" fill="#0f1626" stroke="#8b5cf6"/><text x="135.0" y="32.0" text-anchor="middle" font-size="13" font-weight="800" letter-spacing="2.5" fill="#8b5cf6">LINKEDIN</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" fill="none" role="img">
+<style>path,rect,circle{vector-effect:non-scaling-stroke}.sw{animation:sw 5s cubic-bezier(.45,0,.2,1) infinite}@keyframes sw{0%{transform:translateX(0)}32%,100%{transform:translateX(176px)}}</style>
+<defs><linearGradient id="glass" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0b0b0b"/><stop offset="1" stop-color="#242424"/></linearGradient><linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<clipPath id="btn-linkedin"><circle cx="44.0" cy="44.0" r="41.0"/></clipPath><circle cx="44.0" cy="44.0" r="41.0" fill="url(#glass)" stroke="#fff" stroke-opacity=".13" stroke-width="1.5"/><g clip-path="url(#btn-linkedin)"><rect x="-88" y="0" width="88" height="88" fill="url(#sheen)" class="sw" style="animation-delay:0.7s"/></g><circle cx="44.0" cy="44.0" r="41.0" fill="none" stroke="#FAFAFA" stroke-opacity=".3" stroke-width="1.5"/><g color="#FAFAFA"><g transform="translate(30.00,30.00) scale(0.21875)" fill="#FAFAFA"><path d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 11-10.5 10.49 10.5 10.5 0 0110.5-10.49M50.53 48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z"/></g></g>
 </svg>
