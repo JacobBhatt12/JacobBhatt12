@@ -38,6 +38,6 @@ Software engineer &nbsp;·&nbsp; Own my agency &nbsp;·&nbsp; Own a jazz club
 
 <br/>
 
-<sub>Tampa Bay, Florida &nbsp;·&nbsp;</sub>
+<sub>Tampa Bay, Florida &nbsp;</sub>
 
 </div>
