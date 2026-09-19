@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="130" viewBox="0 0 830 130" role="img">
+<style>text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+</style>
+<defs></defs>
+<rect x=".5" y=".5" width="829" height="129" rx="10" fill="#0a0d14" stroke="#1e2a3a"/>
+<path d="M.5 38V10.5a10 10 0 0 1 10-10H819.5a10 10 0 0 1 10 10V38z" fill="#0f1420" stroke="#1e2a3a"/>
+<circle cx="22" cy="19.5" r="5.5" fill="#ff5f56"/><circle cx="42" cy="19.5" r="5.5" fill="#ffbd2e"/><circle cx="62" cy="19.5" r="5.5" fill="#27c93f"/>
+<text x="415.0" y="24" text-anchor="middle" font-size="12" letter-spacing="1" fill="#64748b">exit 0</text><text x="40" y="76" font-size="14" fill="#64748b">$ <tspan fill="#22d3ee">echo</tspan> <tspan fill="#cbd5e1">"connection closed. thanks for stopping by."</tspan></text><text x="40" y="104" font-size="12" letter-spacing="1" fill="#64748b">[c] COPYRIGHT 2026 JACOB BHATT   |   VER 2.0.0   |   ¯\_(ツ)_/¯</text>
+</svg>
