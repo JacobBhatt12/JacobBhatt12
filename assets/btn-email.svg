@@ -1,5 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" fill="none" role="img">
-<style>path,rect,circle{vector-effect:non-scaling-stroke}.sw{animation:sw 5s cubic-bezier(.45,0,.2,1) infinite}@keyframes sw{0%{transform:translateX(0)}32%,100%{transform:translateX(176px)}}</style>
-<defs><linearGradient id="glass" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#0b0b0b"/><stop offset="1" stop-color="#242424"/></linearGradient><linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
-<clipPath id="btn-email"><circle cx="44.0" cy="44.0" r="41.0"/></clipPath><circle cx="44.0" cy="44.0" r="41.0" fill="url(#glass)" stroke="#fff" stroke-opacity=".13" stroke-width="1.5"/><g clip-path="url(#btn-email)"><rect x="-88" y="0" width="88" height="88" fill="url(#sheen)" class="sw" style="animation-delay:1.4s"/></g><circle cx="44.0" cy="44.0" r="41.0" fill="none" stroke="#BBF047" stroke-opacity=".3" stroke-width="1.5"/><g color="#BBF047"><g transform="translate(29.00,29.00) scale(1.25000)"><g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.6" y="4.8" width="20.8" height="14.4" rx="2"/><path d="m2.2 6.2 9.8 6.6 9.8-6.6"/></g></g></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86" fill="none" role="img">
+<style>
+:root{--ink:#8B949E;--muted:#8B949E;--line:#8B949E;--accent:#86C232;--sheen:#8B949E}
+@media (prefers-color-scheme:dark){:root{--accent:#BBF047;--sheen:#fff}}
+@media (prefers-color-scheme:light){:root{--sheen:#000}}
+
+.base{opacity:0;animation:fd .7s cubic-bezier(.215,.61,.355,1) 0.45s forwards}
+.ring{stroke-dasharray:245.0;stroke-dashoffset:245.0;opacity:.55;
+  animation:rd 1.25s cubic-bezier(.19,1,.22,1) 0.55s forwards}
+.ic{opacity:0;transform-box:fill-box;transform-origin:center;
+  animation:ip .8s cubic-bezier(.34,1.56,.64,1) 0.80s forwards, bob 5s ease-in-out 2.05s infinite}
+.sw{animation:sw 6s cubic-bezier(.165,.84,.44,1) 2.25s infinite}
+@keyframes fd{to{opacity:1}}
+@keyframes rd{to{stroke-dashoffset:0}}
+@keyframes ip{from{opacity:0;transform:scale(.5) rotate(-12deg)}to{opacity:1;transform:none}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes sw{0%{transform:translateX(0)}28%,100%{transform:translateX(172px)}}
+</style>
+<defs><linearGradient id="btn-emails" x1="0" x2="1"><stop offset="0" stop-color="var(--sheen)" stop-opacity="0"/><stop offset=".5" stop-color="var(--sheen)" stop-opacity=".16"/><stop offset="1" stop-color="var(--sheen)" stop-opacity="0"/></linearGradient></defs>
+<clipPath id="btn-email"><circle cx="43.0" cy="43.0" r="39.0"/></clipPath><circle cx="43.0" cy="43.0" r="39.0" stroke="var(--line)" stroke-opacity=".45" stroke-width="1.5" class="base"/><circle cx="43.0" cy="43.0" r="39.0" stroke="var(--accent)" stroke-width="2" stroke-linecap="round" class="ring" transform="rotate(-90 43.0 43.0)"/><g clip-path="url(#btn-email)"><rect x="-86" y="0" width="86" height="86" fill="url(#btn-emails)" class="sw"/></g><g class="ic" color="var(--accent)"><g transform="translate(28.50,28.50) scale(1.20833)"><g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="1.6" y="4.8" width="20.8" height="14.4" rx="2"/><path d="m2.2 6.2 9.8 6.6 9.8-6.6"/></g></g></g>
 </svg>
