@@ -7,10 +7,13 @@ and the summary stats on the right, and writes assets/calendar.svg.
 
 Runs on stdlib only, so the GitHub Action needs no pip install.
 
+Do not rename this file to calendar.py: it would shadow the stdlib module of
+that name and break date handling inside datetime.
+
 Usage:
-    python scripts/calendar.py                 # uses USER below
-    python scripts/calendar.py --user someone
-    python scripts/calendar.py --demo          # fake data, for local preview
+    python scripts/render_calendar.py                 # uses USER below
+    python scripts/render_calendar.py --user someone
+    python scripts/render_calendar.py --demo          # fake data, local preview
 """
 
 import argparse
@@ -20,7 +23,7 @@ import re
 import sys
 import urllib.error
 import urllib.request
-from datetime import date, datetime, timedelta
+from datetime import date, timedelta
 
 USER = "JacobBhatt12"
 OUT = "assets/calendar.svg"
@@ -46,6 +49,13 @@ def _shade(c, f):
 TOPS = LEVELS
 LEFTS = [_shade(c, 0.62) for c in LEVELS]        # shaded side faces
 RIGHTS = [_shade(c, 0.40) for c in LEVELS]
+
+
+# ---------------------------------------------------------------- helpers
+def parse_date(text):
+    """YYYY-MM-DD -> date. Hand-rolled so we never import the stdlib calendar."""
+    y, m, d = text.split("-")
+    return date(int(y), int(m), int(d))
 
 
 # ---------------------------------------------------------------- fetching
@@ -80,8 +90,7 @@ def fetch_graphql(user, token):
     days = []
     for week in cal["weeks"]:
         for d in week["contributionDays"]:
-            days.append((datetime.strptime(d["date"], "%Y-%m-%d").date(),
-                         int(d["contributionCount"])))
+            days.append((parse_date(d["date"]), int(d["contributionCount"])))
     return days
 
 
@@ -112,7 +121,7 @@ def fetch_html(user):
         else:
             cid = re.search(r'id="([^"]+)"', cell)
             n = tips.get(cid.group(1), 0) if cid else 0
-        days.append((datetime.strptime(d.group(1), "%Y-%m-%d").date(), n))
+        days.append((parse_date(d.group(1)), n))
 
     if not days:
         raise RuntimeError("no contribution cells found in the response")
