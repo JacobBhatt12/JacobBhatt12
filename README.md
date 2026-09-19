@@ -26,8 +26,7 @@ Software engineer &nbsp;·&nbsp; Own my agency &nbsp;·&nbsp; Own a jazz club
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=JacobBhatt12&show_icons=true&bg_color=00000000&hide_border=true&title_color=86C232&text_color=8B949E&icon_color=86C232&count_private=true" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBhatt12&layout=compact&bg_color=00000000&hide_border=true&title_color=86C232&text_color=8B949E&icon_color=86C232&langs_count=6" height="160" alt="Top languages" />
+<img src="assets/calendar.svg" width="830" alt="Isometric contributions calendar for the last year, with current streak, best streak, busiest day and daily average" />
 
 <br/><br/>
 
