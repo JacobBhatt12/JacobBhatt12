@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="300" viewBox="0 0 830 300" role="img">
+<style>
+text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;}
+
+.bin{opacity:.45;animation:flick 4s ease-in-out infinite alternate}
+@keyframes flick{from{opacity:.45}to{opacity:1}}
+.dot{animation:blink 1.6s steps(2,start) infinite}
+@keyframes blink{50%{opacity:.15}}
+
+</style>
+
+<rect x="0.5" y="0.5" width="829" height="299" rx="8" fill="#001409" stroke="#0c3320"/>
+<defs>
+  <radialGradient id="fade" cx="600" cy="100" r="280" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="m"><rect width="830" height="300" fill="url(#fade)"/></mask>
+</defs>
+<g mask="url(#m)"><text x="600" y="26" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:0.00s">1010001000011000100001000011</text><text x="600" y="46" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:0.45s">0010001000011111110000111110</text><text x="600" y="66" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:0.90s">0101011001111100110011111011</text><text x="600" y="86" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:1.35s">0010010011100111011111000000</text><text x="600" y="106" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:1.80s">0010110011100111110110000100</text><text x="600" y="126" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:2.25s">1000001000101111001111100011</text><text x="600" y="146" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:2.70s">1000100101101010001001100111</text><text x="600" y="166" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:3.15s">0111100001010101100101011011</text><text x="600" y="186" text-anchor="middle" font-size="14" letter-spacing="6" fill="#00e878" class="bin" style="animation-delay:3.60s">1000000101100000010001010111</text></g>
+<text x="40" y="42" font-size="14" letter-spacing="1.5" fill="#eafff3">HOME  /  PROFILE  /  <tspan text-decoration="underline">JACOBBHATT12</tspan></text>
+<text x="40" y="128" font-size="54" font-weight="800" fill="#00e878">HI, I'M JACOB</text>
+<text x="40" y="172" font-size="18" fill="#eafff3">CS student at USF. I hand-code websites,</text>
+<text x="40" y="200" font-size="18" fill="#eafff3">play jazz piano, and put Jesus first.</text>
+<rect x="40.5" y="228.5" width="300" height="40" fill="#011a0d" stroke="#0e3f26"/>
+<circle cx="60" cy="248.5" r="4" fill="#00e878" class="dot"/>
+<text x="76" y="253" font-size="13" letter-spacing="2" fill="#eafff3">BUILDING THERAWEB DESIGN</text>
+
+</svg>

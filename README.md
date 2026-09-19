@@ -1,42 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003b00&height=180&section=header&text=JACOB%20BHATT&fontSize=56&fontColor=00ff41&fontAlignY=45&desc=root%40usf%3A~%24%20whoami&descSize=18&descColor=00b330&descAlignY=70&animation=twinkling" width="100%" alt="header" />
+<img src="assets/hero.svg" width="830" alt="Hi, I'm Jacob. CS student at USF who hand-codes websites, plays jazz piano, and puts Jesus first." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%3E+CS+student+%40+USF;%3E+future+SWE+%7C+agency+owner+%7C+jazz+club+owner;%3E+faith+%2B+piano+%2B+gym+%2B+tennis" alt="typing" />
+<img src="assets/about.svg" width="830" alt="About: sophomore CS at USF, building TheraWeb Design, piano, jazz, gym, tennis, faith in Jesus. Dreams: software engineer, own an agency, own a jazz club." />
 
-</div>
+<img src="assets/stack.svg" width="830" alt="Stack: Python, JavaScript, TypeScript, React, Next.js, Tailwind, HTML, CSS, Git" />
 
----
-
-```bash
-$ cat about.txt
-
-NAME      : Jacob Bhatt
-STATUS    : Sophomore, Computer Science @ USF
-BUILDING  : TheraWeb Design (therawebdesign.com)
-OFF-DUTY  : piano, jazz, gym, tennis
-KERNEL    : Jesus
-
-$ cat dreams.sh
-
-  1. software engineer
-  2. run my own agency
-  3. own a jazz club
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,html,css,tailwind,git,github&theme=dark" alt="stack" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JacobBhatt12&show_icons=true&theme=merko&hide_border=true&bg_color=000000&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBhatt12&layout=compact&theme=merko&hide_border=true&bg_color=000000&langs_count=6" alt="langs" />
-
+<img src="assets/h-stats.svg" width="830" alt="Stats" />
 <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=JacobBhatt12&show_icons=true&hide_border=true&bg_color=001409&title_color=00e878&icon_color=00e878&text_color=eafff3&border_radius=8&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobBhatt12&layout=compact&hide_border=true&bg_color=001409&title_color=00e878&text_color=eafff3&border_radius=8&langs_count=6" height="165" alt="Top languages" />
 
-[![site](https://img.shields.io/badge/therawebdesign.com-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41&color=003b00)](https://therawebdesign.com)
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&color=003b00)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&color=003b00)](mailto:jacobmbhatt20@gmail.com)
+<img src="assets/h-chat.svg" width="830" alt="Let's chat" />
+<br/>
+<a href="mailto:jacobmbhatt20@gmail.com"><img src="assets/btn-email.svg" width="405" alt="Email me" /></a>
+<a href="https://therawebdesign.com"><img src="assets/btn-site.svg" width="405" alt="Visit TheraWeb Design" /></a>
+
+<img src="assets/h-connect.svg" width="830" alt="Connect" />
+<br/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="assets/chip-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="https://therawebdesign.com"><img src="assets/chip-theraweb.svg" height="46" alt="TheraWeb" /></a>
+<a href="mailto:jacobmbhatt20@gmail.com"><img src="assets/chip-email.svg" height="46" alt="Email" /></a>
+
+<img src="assets/footer.svg" width="830" alt="Jacob Bhatt" />
 
 </div>
