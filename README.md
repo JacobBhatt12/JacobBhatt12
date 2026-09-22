@@ -6,7 +6,7 @@
 
 <img src="assets/rule.svg" width="220" height="14" alt="" />
 
-Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028
+Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028 &nbsp;·&nbsp; CHECK OUT https://www.hackjam26.com/ 
 
 Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·&nbsp; Tennis
 
