@@ -1,12 +1,12 @@
 <div align="center">
 
-# Jacob Bhatt
+# Hi! I am Jacob Bhatt :) 
 
 **Aspiring SWE** &nbsp;·&nbsp; I build stuff.
 
 <img src="assets/rule.svg" width="220" height="14" alt="" />
 
-Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028 &nbsp;·&nbsp; CHECK OUT https://www.hackjam26.com/ 
+Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028 &nbsp; 
 
 Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·&nbsp; Tennis
 
@@ -14,7 +14,7 @@ Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·
 
 ### Dreams
 
-Software engineer &nbsp;·&nbsp; Own a jazz club &nbsp;)
+Software engineer &nbsp;·&nbsp; Own a jazz club &nbsp;
 
 <br/>
 
