@@ -14,7 +14,7 @@ Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·
 
 ### Dreams
 
-Software engineer &nbsp;·&nbsp; Own a jazz club &nbsp;·&nbsp; Scale my agency (TheraWeb Design)
+Software engineer &nbsp;·&nbsp; Own a jazz club &nbsp;)
 
 <br/>
 
