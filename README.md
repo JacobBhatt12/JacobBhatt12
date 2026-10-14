@@ -2,7 +2,7 @@
 
 # Hi! I am Jacob Bhatt :) 
 
-**Aspiring SWE** &nbsp;·&nbsp; I build stuff.
+&nbsp; I’m focused on full-stack software engineering. I build complete websites from front end to back end, and I spend my free time experimenting with new projects. I’m always picking up new hobbies and looking for the next thing to start.
 
 <img src="assets/rule.svg" width="220" height="14" alt="" />
 
