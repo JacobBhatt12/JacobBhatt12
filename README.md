@@ -2,11 +2,11 @@
 
 # Hi! I am Jacob Bhatt :) 
 
-&nbsp; I’m focused on full-stack software engineering. I build complete websites from front end to back end, and I spend my free time experimenting with new projects. I’m always picking up new hobbies and looking for the next thing to start.
+&nbsp; I’m a full-time student at USF and a full-time business owner, focused on full-stack software engineering. Most of my work is web development: I run [TheraWeb Design](https://therawebdesign.com), where I create custom websites for small businesses. In my free time I build side projects like web apps, automation tools, and AI agents. I love picking up new hobbies and finding the next thing to start.
 
 <img src="assets/rule.svg" width="220" height="14" alt="" />
 
-Computer Science student at USF &nbsp;·&nbsp; Sophomore &nbsp;·&nbsp; Class of 2028 &nbsp; 
+Computer Science student at USF &nbsp;·&nbsp; Junior &nbsp;·&nbsp; Class of 2028 &nbsp; 
 
 Jesus first &nbsp;·&nbsp; Jazz &nbsp;·&nbsp; Gym &nbsp;·&nbsp; Piano &nbsp;·&nbsp; Tennis
 
